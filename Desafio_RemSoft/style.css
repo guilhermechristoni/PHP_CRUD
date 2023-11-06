@@ -1,0 +1,14 @@
+table.table {
+    border-collapse: collapse; /* CSS2 */
+    background: #324cdf;
+    color: white;
+}
+ 
+table.table td {
+    border: 1px solid rgb(145, 145, 145);
+}
+ 
+table.table th {
+    border: 1px solid rgb(145, 145, 145);
+    background: rgb(6, 18, 182)
+}
